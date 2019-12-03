@@ -1,6 +1,9 @@
 # class-material
 full stack course class-material
-
+  
+    
+[read more](https://fullstackopen.com/en)      
+      
 # links to exe:
 [exe0- connect to classroom](https://classroom.github.com/a/equOzDwW) 
   
